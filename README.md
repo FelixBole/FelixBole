@@ -14,8 +14,8 @@ On my own personnal time, I am also building a game as an indie game developer. 
 
 - 🔭 I’m currently working at Visions on a consent based personnal data operator. Building tools in a MERN stack.
 - 🪐 [Personal website](https://felixbole.com) A React website running on an express server which presents me a little better - 2023
+- 🔴 [NotificationToaster](https://github.com/FelixBole/NotificationToaster) a lightweight notification toast library - 2022
 - 🧭 [tour.js](https://github.com/FelixBole/tour.js) a frontend interactive guide tool - 2021
-- 📍  [NotificationToaster](https://github.com/FelixBole/NotificationToaster) a lightweight notification toast library - 2022
 - 🌱 I’m currently learning about Typescript, React and C# (Unity)
 
 ### Sound & Music
