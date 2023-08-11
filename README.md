@@ -4,23 +4,22 @@ My experience has 2 sides to it, since this is GitHub, let's start with the deve
 
 ### Developer experience
 
-I am a fullstack developer working as a freelancer. I have made my development studies at OpenClassrooms and have been working for several clients since.
+I am a FullStack web developer and an Indie Game Developer
 
-By the end of my studies, I have joined a startup : Visions, a data operator and a consent management system allowing anyone to share data between platforms from their consent.
+Currently working at [Visions](https://github.com/VisionsOfficial)
 
-On my own personnal time, I am also building a game as an indie game developer. The game is made under Unity and C# and is a project on which I work on development, game design, UX/UI, sound and music.
+I am also building a game as an indie game developer. The game is made under Unity and C# and is a project on which I work on development, game design, UX/UI, sound and music.
 
 #### `Dev work`
 
 - 🔭 I’m currently working at Visions on a consent based personnal data operator. Building tools in a MERN stack.
 - 🪐 [Personal website](https://felixbole.com) A React website running on an express server which presents me a little better - 2023
-- 🔴 [NotificationToaster](https://github.com/FelixBole/NotificationToaster) a lightweight notification toast library - 2022
-- 🧭 [tour.js](https://github.com/FelixBole/tour.js) a frontend interactive guide tool - 2021
-- 🌱 I’m currently learning about Typescript, React and C# (Unity)
+- 🔴 I made a bunch of small libraries, both for web development and Unity, some of which are on NPM, others, on my github
+- 🌱 I’m currently learning about C# (Unity)
 
 ### Sound & Music
 
-Most of my life's experience though, evolves around sound and music. I've been a musician since I was 2 years old and have been making music ever since.
+Most of my life's experience evolves around sound and music. I've been a musician since I was 2 years old and have been making music ever since.
 
 My initial studies were at EICAR, a cinema school. I graduated a Bachelor in Sound and have been continuing to make music, sound, sound engineering and sound recording as a freelancer ever since. 
 
@@ -35,4 +34,3 @@ My initial studies were at EICAR, a cinema school. I graduated a Bachelor in Sou
 
 - ✉ felix.bole@yahoo.fr / felix.slax@gmail.com
 - Linkedin : https://www.linkedin.com/in/felixbole/
-- I also have a seperate GitHub account for all Visions related work : https://github.com/Visions-Felix
