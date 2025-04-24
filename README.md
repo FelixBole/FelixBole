@@ -18,7 +18,7 @@ I am also building a game as an indie game developer. The game is made under Uni
 
 ### Sound & Music
 
-Most of my life's experience evolves around sound and music. I've been a musician since I was 2 years old and have been making music ever since.
+A lot of my life's experience evolves around sound and music. I've been a musician since I was 2 years old and have been making music ever since.
 
 My initial studies were at EICAR, a cinema school. I graduated a Bachelor in Sound and have been continuing to make music, sound, sound engineering and sound recording as a freelancer ever since. 
 
